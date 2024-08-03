@@ -6,7 +6,9 @@ Welcome to Fish Run Game!
 This was my first gaming project with Python, created about a year ago. The game is a simple 2D runner where the player controls a fish that must avoid incoming obstacles.
 ## IMAGES
 <div style="text-align: center;">
-    <img src="https://github.com/Saman833/fish-run-game/blob/main/start_game.jpg" alt="Fish Run Game Screenshot" style="max-width: auto%; height: 100px;">
+    <img src="https://github.com/Saman833/fish-run-game/blob/main/start_game.jpg" alt="Fish Run Game Screenshot" style="max-width: auto%; height: 120px;">
+     <img src="https://github.com/Saman833/fish-run-game/blob/main/runing_game1.jpg" alt="Fish Run Game Screenshot" style="max-width: auto%; height: 120px;">
+     <img src="https://github.com/Saman833/fish-run-game/blob/main/runing_game2.jpg" alt="Fish Run Game Screenshot" style="max-width: auto%; height: 120px;">
 </div>
 
 ## Features
