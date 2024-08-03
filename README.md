@@ -17,6 +17,7 @@ This was my first gaming project with Python, created about a year ago. The game
 - 2D graphics with basic animations (Fish/rectangles)
 - Computes the current score based on your moves
 - Records the best score in history
+- the game comes fater/harder when the player gets more points
 - Allows replaying the game after losing the current game
 
 ## How to Play
