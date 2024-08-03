@@ -4,7 +4,7 @@ Welcome to Fish Run Game!
 
 ## Overview
 This was my first gaming project with Python, created about a year ago. The game is a simple 2D runner where the player controls a fish that must avoid incoming obstacles.
-![Fish Run Game Screenshot](https://github.com/Saman833/fish-run-game/blob/main/start_game.jpg)
+<img src="https://github.com/Saman833/fish-run-game/blob/main/start_game.jpg" alt="Alt text" width="300" height="200">
 ## Features
 - Developed using the Turtle module in Python
 - Simple and engaging gameplay
