@@ -74,8 +74,7 @@ def startt():  # this function is the main function of the game and everything w
             for enemy in enemys:
                 enemy.move_ment()
                 if (abs(enemy.y - enemy.size - yy) <= sizz or abs(enemy.y - enemy.size / 2 - yy) <= sizz) and (abs(enemy.x - xx) <= sizz or abs(enemy.x + 2 * enemy.size - xx) <= sizz or abs(enemy.x + enemy.size - xx) <= sizz):  # this will check if any shape collided with the fish 
-                    while now - per <= 1.:
-                        now = time.time() 
+                    time.sleep(1) 
                     ending()
             t.update()  
             t.clear()              
