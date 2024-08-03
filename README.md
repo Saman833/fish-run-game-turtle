@@ -14,6 +14,7 @@ This was my first gaming project with Python, created about a year ago. The game
 ## Features
 - Developed using the Turtle module in Python
 - Simple and engaging gameplay
+-object-oriented structure
 - 2D graphics with basic animations (Fish/rectangles)
 - Computes the current score based on your moves
 - Records the best score in history
